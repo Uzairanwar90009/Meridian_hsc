@@ -75,7 +75,7 @@
 								
 							</div>
 						</li>
-						<li class="nav-item dropdown">
+						<!-- <li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								Pages
 							</a>
@@ -89,7 +89,7 @@
 								<a class="dropdown-item" href="form.php">Admission Form</a>
 								<a class="dropdown-item" href="faq.php">Faq</a>
 							</div>
-						</li>
+						</li> -->
 						<li class="nav-item">
 							<a class="nav-link text-white" href="blog.php">Blog</a>
 						</li>

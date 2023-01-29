@@ -322,7 +322,7 @@ nav.navbar.navbar-expand-lg.navbar-light.sticky-nav {
 }
 
 .brands-w3ls {
-    background: linear-gradient(to top, #16558f, #86c9ff);
+    background: var(--dark-blue);
 }
 
 .brands-w3ls ul li i {
@@ -647,7 +647,7 @@ p.conta-para-style {
     letter-spacing: 2px;
     padding: 14px 40px;
     border: none;
-    background: #4baaf6;
+    background: var(--light-blue);
     border-radius: 0;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -657,7 +657,7 @@ p.conta-para-style {
 }
 
 .subscribe-w3ls button[type="submit"]:hover {
-    background: #000;
+    background: var(--light-blue);
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;
@@ -683,7 +683,7 @@ p.para-agileits-w3layouts i {
 }
 
 .conta-posi-w3ls {
-    background: linear-gradient(to left, #16558f, #86c9ff);
+    background: var(--dark-blue);
     width: 50%;
     position: absolute;
     top: 40%;
@@ -915,7 +915,7 @@ h6.small-heading {
 
 .numscroller:before {
     content: " ";
-    background: #0583D2;
+    background: var(--dark-blue);
     width: 30%;
     height: 8px;
     position: absolute;
@@ -943,7 +943,7 @@ h6.small-heading {
 }
 
 .events-up {
-    background: #46a7f5;
+    background: var(--dark-blue);
 }
 
 .events-right ul li i {
@@ -985,7 +985,7 @@ h6.small-heading {
 /*-- news --*/
 
 .news-events-agile {
-    background: #FFC107;
+    background: var(--dark-blue);
 }
 
 .post-img ul li {
@@ -1007,11 +1007,11 @@ h6.small-heading {
 }
 
 .news-events-agile.event-colo1 {
-    background: #13e094;
+    background: var(--dark-blue);
 }
 
 .news-events-agile.event-colo3 {
-    background: #f54a3e;
+    background: var(--dark-blue);
 }
 
 /*-- //news --*/
